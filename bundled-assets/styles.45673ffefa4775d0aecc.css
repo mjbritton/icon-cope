@@ -1,0 +1,1 @@
+.wpdm-item{display:flex;align-items:center;flex-direction:row;padding-top:.5rem;padding-bottom:.5rem;border-bottom:1px solid #d3d3d3}.wpdm-item:hover{background-color:rgba(0,0,0,.1)}.wpdm-item__icon .wpdm_icon{min-width:35px;max-width:35px;width:35px}.wpdm-item__title{flex-grow:1;padding-left:1rem;font-size:1.5rem}
